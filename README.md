@@ -38,7 +38,7 @@ The revised strategy uses a prefabricated film to ensure maximum quality and env
 ### 3.2. PHASE 2: DRONE SWARM TECHNOLOGY & LOGISTICS
 
 1.  **Swarm Protocol:** Develop autonomous $\text{GPS/LiDAR}$ navigation to coordinate a swarm of application drones, ensuring precise, overlapping coverage on complex terrain.
-2.  **Deployment Target:** Establish protocols for deployment on high-altitude, bare rock, **South-facing slopes** (Northern Hemisphere) above the treeline ($$ \approx 2000 \text{ m}$$ elevation).
+2.  **Deployment Target:** Establish protocols for deployment on high-altitude, bare rock, **South-facing slopes** (Northern Hemisphere) above the treeline (approx 2000m elevation).
 
 ### 3.3. PHASE 3: WATER COLLECTION & VALIDATION
 
