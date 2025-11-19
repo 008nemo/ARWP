@@ -19,9 +19,9 @@ The ARWP maximizes water production by combining robust reflection with powerful
 
 | Mechanism | Description | Resulting Effect |
 | :--- | :--- | :--- |
-| **High Albedo Surface (Gündüz)** | An ultra-thin **Aluminum or Mylar Film** reflects **90-95%** of incoming solar radiation. | Prevents solar heating, ensuring the rock surface stays significantly **below the surrounding air temperature** and certainly below the dew point. |
+| **High Albedo Surface (Day)** | An ultra-thin **Aluminum or Mylar Film** reflects **90-95%** of incoming solar radiation. | Prevents solar heating, ensuring the rock surface stays significantly **below the surrounding air temperature** and certainly below the dew point. |
 | **Orographic Condensation** | Humid air (ocean-borne) is forced upwards by the mountain and naturally cools as it rises. | The air is already pre-conditioned (close to its dew point) when it contacts the cold, treated rock face. |
-| **Radiative Cooling (Gece)** | The foil maintains high thermal emissivity, shedding heat directly to the cold night sky. | The rock surface temperature **drops aggressively**, guaranteeing robust condensation and freeze/thaw cycling around the clock. |
+| **Radiative Cooling (Night)** | The foil maintains high thermal emissivity, shedding heat directly to the cold night sky. | The rock surface temperature **drops aggressively**, guaranteeing robust condensation and freeze/thaw cycling around the clock. |
 
 ---
 
